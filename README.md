@@ -1,6 +1,9 @@
 # 💰 Personal Finance Assistant – AI Agent Built with Groq + LLaMA 3
 
-![Personal Finance Assistant](https://github.com/user-attachments/assets/b813bb12-7499-40cf-89fc-9892a5dbdebf)
+![Personal Finance Assistant]<p align="center">
+  <img src="https://github.com/user-attachments/assets/7150c4a5-859d-46c6-9960-173dca2f4410" width="700" alt="AI Finance Assistant">
+</p>
+
 
 An intelligent, conversational **Finance Tracker AI Agent** that understands natural language, tracks your income and expenses, and gives real-time balance updates — all powered by **Groq’s ultra-fast LLM engine** and **GPT-compatible models** like **LLaMA 3**.
 
