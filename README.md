@@ -1,6 +1,6 @@
 # 💰 Personal Finance Assistant – AI Agent Built with Groq + LLaMA 3
 
-![Personal Finance Assistant]<p align="center">
+]<p align="center">
   <img src="https://github.com/user-attachments/assets/7150c4a5-859d-46c6-9960-173dca2f4410" width="700" alt="AI Finance Assistant">
 </p>
 
